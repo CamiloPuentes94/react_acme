@@ -11,13 +11,17 @@
 }
 
 .estado {
-    width: 120px;
+    width: 80px;
 }
 
 .comentario {
-    width: 120px;
+    width: 150px;
     overflow: hidden;
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
+}
+
+.nombre {
+    width: 180px;
 }
