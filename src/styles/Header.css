@@ -5,6 +5,8 @@
     width: 1000px;
     margin: 0 auto;
     padding: 0 40px;
+    box-shadow: 0 0.188em 1.550em black;
+    border-radius: 20px;
 }
 
 .from-container a {
