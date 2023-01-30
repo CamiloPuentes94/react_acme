@@ -1,0 +1,25 @@
+.cardDetails-card {
+    margin-top: 20px;
+    padding: 10px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid #a79794;
+    box-shadow: 10px 10px 64px 0px rgb(184, 170, 167);
+    border-radius: 20px;
+}
+
+.cardDetails-card h2 {
+    width: 100%;
+    text-align: center;
+}
+
+.cardDetails-card img {
+    width: 70%;
+    height: 300px;
+}
+
+.cardDetails-card p {
+    width: 70%;
+    font-size: 18px;
+}
